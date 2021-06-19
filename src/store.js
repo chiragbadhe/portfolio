@@ -39,7 +39,7 @@ export default new Vuex.Store({
         icon: ['fab', 'mail'],
         startDate: "2021",
         endDate: "Present",
-        developer: "UnevenSoftware",
+        developer: "Untitled Labs",
         tags: [
             { name: "#blockchain" },
             { name: "#ethereum" },
@@ -47,6 +47,23 @@ export default new Vuex.Store({
             { name: "#nuxt" }
         ]
     },
+    {
+        
+        name: "Covid India",
+        description: "A website that shows overall data of covid-19 patients",
+        link: "https://covidindia-chi.vercel.app/",
+        icon: ['fab', 'mail'],
+        startDate: "2020",
+        endDate: "2020",
+        developer: "Chirag Badhe",
+        tags: [
+            { name: "#nuxt" },
+            { name: "#vue" },
+            { name: "#tailwind" },
+            { name: "#covid-19" }
+        ]
+    },
+
     ], events: [
         { 
             name: "Untitled Labs ",

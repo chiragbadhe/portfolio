@@ -4,7 +4,7 @@
             <div>
                 <div class="my-4 clearfix">
                     <font-awesome-icon class="float-left text-black text-4xl" :icon="parentData.icon"/>
-                    <a class="float-right" :href="parentData.link">
+                    <a class="float-right" target="_blank" :href="parentData.link">
                         <font-awesome-icon class="text-lg text-black hover:text-gray-500" icon="link"/>
                     </a>
                 </div>

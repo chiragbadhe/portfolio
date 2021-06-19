@@ -9,7 +9,7 @@ import { faAddressCard, faHome, faBox, faBriefcase, faBook, faLink, faLeaf, faWi
 import { faGithub, faLinkedin, faTwitter, faSpotify, faInstagram, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
-library.add(faAddressCard, faBook, faBox, faBriefcase, faHome, faLink, faLeaf, faWifi, faEnvelope, faGithub, faLinkedin, faTwitter, faSpotify, faInstagram, faWhatsapp);
+library.add(faAddressCard, faBook, faBox, faBriefcase, faHome, faLink, faLeaf, faWifi, faEnvelope, faGithub, faLinkedin, faTwitter, faSpotify, faInstagram, faWhatsapp, );
 Vue.component("font-awesome-icon", FontAwesomeIcon);
 
 Vue.config.productionTip = false

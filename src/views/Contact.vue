@@ -18,8 +18,8 @@
             </span>
             <br>
             <div class="flex flex-wrap justify-center mt-4">
-                <div v-for="item in socials" v-bind:key="item.name" class="flex-grow m-2 sm:mx-0 sm:my-4 sm:w-auto md:mx-2 bg-gray-200 rounded-sm">
-                    <a :href="item.link" class="p-4 text-center rounded-sm text-xl text-black hover:gray-400 block">
+                <div  v-for="item in socials" v-bind:key="item.name" class="flex-grow m-2 sm:mx-0 sm:my-4 sm:w-auto md:mx-2 bg-gray-200 rounded-sm">
+                    <a target="_blank" :href="item.link" class="p-4 text-center rounded-sm text-xl text-black hover:gray-400 block">
                         <font-awesome-icon :icon="['fab', item.icon]" size="lg" /><br>
                         <span>{{item.name}}</span>
                     </a>
