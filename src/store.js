@@ -37,8 +37,8 @@ export default new Vuex.Store({
         description: "Dmail is protocol for sending end-to-end encrypted emails over decentralized network to any ethereum address.",
         link: "https://dmail.so/",
         icon: ['fab', 'mail'],
-        startDate: "2021",
-        endDate: "Present",
+        startDate: "Feb-2021",
+        endDate: "March-2021",
         developer: "Untitled Labs",
         tags: [
             { name: "#blockchain" },
@@ -53,8 +53,8 @@ export default new Vuex.Store({
         description: "A website that shows overall data of covid-19 patients",
         link: "https://covidindia-chi.vercel.app/",
         icon: ['fab', 'mail'],
-        startDate: "2020",
-        endDate: "2020",
+        startDate: "Nov-2020",
+        endDate: "Dec-2020",
         developer: "Chirag Badhe",
         tags: [
             { name: "#nuxt" },
@@ -67,10 +67,10 @@ export default new Vuex.Store({
         
         name: "Personal Portfolio",
         description: "I have created a opensource personal portfolio",
-        link: "https://covidindia-chi.vercel.app/",
+        link: "",
         icon: ['fab', 'mail'],
-        startDate: "2020",
-        endDate: "2020",
+        startDate: "April-2020",
+        endDate: "May-2021",
         developer: "Chirag Badhe",
         tags: [
             { name: "#nuxt" },
