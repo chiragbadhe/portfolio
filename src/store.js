@@ -63,6 +63,22 @@ export default new Vuex.Store({
             { name: "#covid-19" }
         ]
     },
+    {
+        
+        name: "Personal Portfolio",
+        description: "I have created a opensource personal portfolio",
+        link: "https://covidindia-chi.vercel.app/",
+        icon: ['fab', 'mail'],
+        startDate: "2020",
+        endDate: "2020",
+        developer: "Chirag Badhe",
+        tags: [
+            { name: "#nuxt" },
+            { name: "#vue" },
+            { name: "#tailwind" },
+            { name: "#covid-19" }
+        ]
+    },
 
     ], events: [
         { 
@@ -91,7 +107,7 @@ export default new Vuex.Store({
             icon: "twitter" 
         }, {
             name: "instagram",
-            link: "https://www.instagram.com/gil.ndr/",
+            link: "https://www.instagram.com/chirag.eth/",
             icon: "instagram" 
         }, 
     ]
