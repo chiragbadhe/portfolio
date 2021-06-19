@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@keyframes moveGradient {
+    50% {
+        background-position: 100% 50%;
+    }
+}
+
+
+@keyframes mouseOver { 
+    0% { 
+        top: 0;
+        background-color: #eeeeee;
+        display: block;
+        transform: translateY(0%);
+    }
+    100% {
+        top: -16px; 
+        background-color: #eeeeee;
+        transform: translateY(-2%);
+    }
+}
+
+@keyframes mouseOut{ 
+    0% {
+        top: -16px;
+        background-color: #eeeeee;
+        transform: translateY(-2%);
+    } 100% {
+        top: 0;
+        background-color: #eeeeee;
+        transform: translateY(0%);
+    }
+}
