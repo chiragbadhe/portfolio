@@ -76,7 +76,39 @@ export default new Vuex.Store({
             { name: "#nuxt" },
             { name: "#vue" },
             { name: "#tailwind" },
-            { name: "#covid-19" }
+        ]
+    },
+    {
+        
+        name: "EnsTree",
+        description: "Showcase all your NFT's at one place",
+        link: "https://enstree.vercel.app/",
+        icon: ['fab', 'mail'],
+        startDate: "June-2021",
+        endDate: "July-2021",
+        developer: "Chirag Badhe",
+        tags: [
+            { name: "#nuxt" },
+            { name: "#vue" },
+            { name: "#tailwind" },
+            { name: "#ethereum" },
+            { name: "#blockchain" }
+        ]
+    },
+    {
+        name: "Hoddl",
+        description: "Hold crypto assets for a spectific duration.",
+        link: "https://hoddl.vercel.app/",
+        icon: ['fab', 'mail'],
+        startDate: "July-2021",
+        endDate: "OnGoing",
+        developer: "Chirag Badhe",
+        tags: [
+            { name: "#nuxt" },
+            { name: "#vue" },
+            { name: "#tailwind" },
+            { name: "#ethereum" },
+            { name: "#blockchain" }
         ]
     },
 
