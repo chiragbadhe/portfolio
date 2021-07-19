@@ -111,6 +111,22 @@ export default new Vuex.Store({
             { name: "#blockchain" }
         ]
     },
+     {
+        name: "AgroCart",
+        description: "Marketplace For Farmers, Farmers can buy pesticides insecticides online
+        link: "https://www.agrocart.ml/",
+        icon: ['fab', 'mail'],
+        startDate: "June-21
+        endDate: "OnGoing",
+        developer: "Chirag Badhe",
+        tags: [
+            { name: "#nuxt" },
+            { name: "#vue" },
+            { name: "#tailwind" },
+            { name: "#snipcart" },
+            { name: "#strapi" }
+        ]
+    },
 
     ], events: [
         { 
