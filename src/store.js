@@ -113,10 +113,10 @@ export default new Vuex.Store({
     },
      {
         name: "AgroCart",
-        description: "Marketplace For Farmers, Farmers can buy pesticides insecticides online
+        description: "Marketplace For Farmers, Farmers can buy pesticides insecticides online",
         link: "https://www.agrocart.ml/",
         icon: ['fab', 'mail'],
-        startDate: "June-21
+        startDate: "June-21",
         endDate: "OnGoing",
         developer: "Chirag Badhe",
         tags: [
