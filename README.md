@@ -1,12 +1,27 @@
-# :sunglasses:  Chirag | portfolio
+# Personl Portfolio For Developers  ⚡️
 
-> This is my personal portfolio Made with vue.js!
+## A minimal portfolio template for Developers!
 
-## :computer:  Deployment
+## Features
 
-Hosted on vercel! [view site](https://chiragbadhe.com)
+⚡️ Modern UI Design + Reveal Animations\
+⚡️ One Page Layout\
+⚡️ Styled with Tailwind Css
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Built using vue\
 
-## :rocket: Project setup
+---
+
+## Why do you need a portfolio? ☝️
+
+- Professional way to showcase your work
+- Increases your visibility and online presence
+- Shows you’re more than just a resume
+
+## Getting Started 🚀
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 use [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
