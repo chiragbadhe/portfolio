@@ -38,5 +38,3 @@ npm / yarn run serve
 ```
 npm / yarn run build
 ```
-# mywebsite
-
