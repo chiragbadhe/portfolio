@@ -1,14 +1,12 @@
 <template>
    <div class=" flex-col justify-center text-center">
-        <h1 class="font-bold text-black sm:text-5xl text-4xl">Contact</h1>
-        <br/>
         <div class="my-8">
             <h1 class="text-black font-bold sm:text-5xl text-3xl "> Get in touch </h1>
             <span class="text-black text-xl my-8">
                 I&rsquo;m not currently looking for a fulltime job but my inbox is always open. Whether for a potential project or idea, I&rsquo;ll try my best to answer your email!
             </span><br>
             <button class=" my-8 rounded-sm text-lg p-4 border-2 text-black hover:text-gray-400 hover:bg-transparent-primary " 
-                onclick="location.href='mailto:gilbert.ndresaj@gmail.com'">
+                onclick="location.href='mailto:badhechirag633@gmail.com'">
                 Say Hello
             </button>
         </div>

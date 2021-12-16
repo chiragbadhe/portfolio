@@ -24,11 +24,13 @@ export default new Vuex.Store({
             { name: "Tailwind.css", level: 90 },
             { name: "Nuxt", level: 75 },
             { name: "Node.js & Express.js", level: 60 },
+            { name: "S0lidity", level: 50 },
         ],
         tools:[
             { name: "git" },
             { name: "Vercel" },
             { name: "Netlify" },
+            { name: "Figma" },
         ]
     },
     projects: [{
@@ -79,23 +81,6 @@ export default new Vuex.Store({
         ]
     },
     {
-        
-        name: "EnsTree",
-        description: "Showcase all your NFT's at one place",
-        link: "https://enstree.vercel.app/",
-        icon: ['fab', 'mail'],
-        startDate: "June-2021",
-        endDate: "July-2021",
-        developer: "Chirag Badhe",
-        tags: [
-            { name: "#nuxt" },
-            { name: "#vue" },
-            { name: "#tailwind" },
-            { name: "#ethereum" },
-            { name: "#blockchain" }
-        ]
-    },
-    {
         name: "Hoddl",
         description: "Hold crypto assets for a spectific duration.",
         link: "https://hoddl.vercel.app/",
@@ -130,12 +115,23 @@ export default new Vuex.Store({
 
     ], events: [
         { 
+            name: "Unbound Finance",
+            description: "Unbound Finance is a decentralized, cross-chain liquidity protocol that is building the next money lego by unlocking the liquidity from AMMs.",
+            role: "Full-Stack Developer ",
+            type: "Work",
+            startDate: "Sep, 2021",
+            endDate: "Present",
+            roles:[
+                {description:" Developed and maintained front-end with Nuxt.js." }
+            ]
+        },
+        { 
             name: "Untitled Labs ",
             description: "I work in this company as a frontend developer, I mostly use Nuxt & TailwindCSS",
             role: "FrontEnd Developer ",
             type: "Work",
             startDate: "Dec, 2020",
-            endDate: "Present",
+            endDate: "Sep, 2021",
             roles:[
                 {description:" Developed and maintained front-end with Nuxt.js." }
             ]

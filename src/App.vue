@@ -10,7 +10,7 @@
         </div>   
         <footer id="bottom" class="w-full text-center p-8 bg-background-footer ">   
             <div>
-                <p class="text-black">Made by Chirag Badhe with Vue.js & tailwind.css</p>
+                <p class="text-black">Made by Chirag Badhe with ❤️</p>
             </div>
         </footer>
     </div>
