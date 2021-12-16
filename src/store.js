@@ -15,16 +15,16 @@ export default new Vuex.Store({
     },
     technologies: {
         programming:  [
-            { name: "HTML & (S)CSS", level: 95 },
             { name: "Javascript (ES6)", level: 65 },
-            { name: "Python", level: 60 , },
+            { name: "Solidity", level: 50 },
+            { name: "HTML & (S)CSS", level: 95 },
+            { name: "Vue", level: 75 },
         ],
         frameworks: [
             { name: "Vue.js & Nuxt.js", level: 75 },
             { name: "Tailwind.css", level: 90 },
             { name: "Nuxt", level: 75 },
             { name: "Node.js & Express.js", level: 60 },
-            { name: "S0lidity", level: 50 },
         ],
         tools:[
             { name: "git" },

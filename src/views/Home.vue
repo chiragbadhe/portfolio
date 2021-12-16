@@ -16,11 +16,6 @@
                 onclick="location.href='mailto:gilbert.ndresaj@gmail.com'">
                 Get In Touch
             </button>
-            <a target="_blank" href="resume.pdf" download>
-                <button class="ml-5 text-black  rounded-sm text-lg p-4 border-2 hover:bg-transparent-primary my-4" >
-                    Get Resume
-                </button>
-            </a>
         </div>
     </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
    <div class=" flex-col justify-center text-center">
-        <div class="my-8">
+        <div class="my-24">
             <h1 class="text-black font-bold sm:text-5xl text-3xl "> Get in touch </h1>
             <span class="text-black text-xl my-8">
                 I&rsquo;m not currently looking for a fulltime job but my inbox is always open. Whether for a potential project or idea, I&rsquo;ll try my best to answer your email!
